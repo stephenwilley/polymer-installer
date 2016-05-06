@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'pixto:polymer-installer',
+  name: 'stephenwilley:polymer-installer',
   version: '0.1.0',
-  summary: 'Installer tools for pixto:polymer',
-  git: 'https://github.com/pixto/polymer-installer',
+  summary: 'Installer tools for stephenwilley:polymer',
+  git: 'https://github.com/stephenwilley/polymer-installer',
   documentation: 'README.md'
 });
 
